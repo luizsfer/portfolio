@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules
+.vscode
+
+# API keys and secrets
+.env
+
+# Yarn lock and errors
+yarn.lock
+yarn-error.log
+
+# TS files
+dist
